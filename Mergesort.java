@@ -66,6 +66,8 @@ public class Mergesort {
         {
             System.out.print(out[j-1]+" ");
         }
+
+        sc.close();
     }
     
 }

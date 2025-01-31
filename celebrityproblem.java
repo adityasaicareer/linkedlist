@@ -25,6 +25,8 @@ public class celebrityproblem {
 
             }
         }
+
+        sc.close();
     }
     
 }
